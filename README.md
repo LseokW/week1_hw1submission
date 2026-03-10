@@ -2,6 +2,8 @@
 
 ---
 
+Co-authored-by: Claude (Anthropic)
+
 ## 과제 1: 환경 설치 및 프로그램 실행
 
 ### 환경 구성
